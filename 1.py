@@ -1,12 +1,12 @@
 gh=int(input())
 df=[]
-for i in range90,gh):
+for i in range(0,gh):
  ij=input()
- df.append(io)
+ df.append(ij)
 ff=[]
-for i in dairy(*df):
+for i in zip(*df):
  if(i.count(i[0])==len(i)):
   ff.append(i[0])
  else:
   break
-print(".join(ff))
+print(''.join(ff))
